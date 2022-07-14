@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.DS_Store
+
+data/cardTransaction.csv
+
+data/cardTransaction2.csv
+
+data/VCardTransactions-NoName.csv
+
+data/VCardTransactions-NoName2.csv
