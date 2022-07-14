@@ -137,3 +137,9 @@ data/cardTransaction2.csv
 data/VCardTransactions-NoName.csv
 
 data/VCardTransactions-NoName2.csv
+
+data/__MACOSX/
+
+data/trans.csv
+
+data/vtrans.csv
